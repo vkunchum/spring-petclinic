@@ -1,4 +1,4 @@
-<!--Links to the images-->
+-Links to the images
 <!--Your GitHub Actions dashboard showing a successful first build.-->
 ![Screen Capture #1](figures/2.PNG)
 <!--Your GitHub repository with the readme.md file selected showing the code that you
