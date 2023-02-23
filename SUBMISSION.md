@@ -1,2 +1,10 @@
- #Links to those images
+ #Links to the images
 ![Screen Capture #1](figures/2.PNG)
+![Screen Capture #1](figures/3.PNG)
+![Screen Capture #1](figures/4.PNG)
+![Screen Capture #1](figures/5.PNG)
+![Screen Capture #1](figures/6.PNG)
+![Screen Capture #1](figures/7.PNG)
+![Screen Capture #1](figures/8.PNG)
+![Screen Capture #1](figures/9.PNG)
+![Screen Capture #1](figures/10.PNG)
